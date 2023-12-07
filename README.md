@@ -31,3 +31,14 @@ Python Syntax compared to other programming language.
 Python was designed for readability, and has some similarities to the English language with influence from mathematics.
 Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes.
+
+
+
+What is an IDE?
+If a user wishes to perform a task using a computer, they use a program specially designed for that task. For example, a user who wants to analyze data may use spreadsheet software, such as Microsoft Excel or Google Sheets, two programs written specifically for that purpose. Similarly, software developers must use specialized programs to help them create programs. Over the years, this has included several types of applications, but now they have been consolidated into a single type of program known as an Integrated Development Environment (IDE). Every software has a creation cycle, and IDEs can govern each development phase. Developers can write, test, compile, and package their software using IDEs; they are vital to the operation of any modern software company and are used worldwide.
+
+While specific IDEs may specialize in writing specific types of code (or are better suited for different languages), they can write all kinds of programs. These programs include the aforementioned applications, drivers, and utilities and are used by professionals, students, and hobbyists alike. The point is that IDEs are very versatile regarding when, why, and by whom they are used. ,
+
+Examples of IDEs include NetBeans, Eclipse, IntelliJ,  Visual Studio and jupyter notebook. i used jupyternote book.
+Jupyter Notebook: The Classic Notebook Interface
+The Jupyter Notebook is the original web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience.
